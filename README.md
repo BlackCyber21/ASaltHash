@@ -1,6 +1,6 @@
 # ASaltHash
 
-ASaltHash é uma ferramenta para criar senhas com Salt no padrão do Linux...
+ASaltHash é uma ferramenta para criar Hashs com Salt apartir de senhas, no padrão do Linux...
 
 ┌─[root@parrot]─[/home/test/Desktop/BASH/CRIA/OUT]
 └──╼ #./ASaltHash.sh
