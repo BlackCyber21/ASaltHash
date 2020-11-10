@@ -1,5 +1,5 @@
 # ASaltHash
-Crie hashs com salt apartir de uma senha.
+# Crie hashs com salt apartir de uma senha.
 
 
 Funciona em Sistemas Linux
