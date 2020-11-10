@@ -1,4 +1,6 @@
 # ASaltHash
+Crie hashs com salt apartir de uma senha.
+
 
 Funciona em Sistemas Linux
 Requer Openssl instalado
