@@ -1,5 +1,8 @@
 # ASaltHash
 
+*Funciona em Sistemas Linux
+*Requer Openssl instalado
+
 ASaltHash é uma ferramenta para criar Hashs com Salt apartir de senhas, no padrão do Linux...
 
 Documentação:
